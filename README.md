@@ -1,14 +1,14 @@
 # 📊 DataXperience KINNUX
 ### Análisis de ventas y comportamiento comercial mediante Ciencia de Datos
 
-Proyecto final del curso **Ciencia de Datos: Aplicando lo aprendido**. Analizamos registros comerciales reales (anonimizados) de **KINNUX S.A.S.** aplicando las tres etapas del curso: preparación de datos, estadística descriptiva y modelado con storytelling.
+Proyecto final del curso **DataXperience**. Analizamos registros comerciales reales (anonimizados) de **KINNUX S.A.S.** aplicando las tres etapas del curso: preparación de datos, estadística descriptiva y modelado con storytelling.
 
 ## 👥 Integrantes
 - Juan Sebastian Gomez Clavijo
-- [Nombre completo 2] —
+- Jahir Alfredo Leon 
 
 ## 🎥 Video de presentación
-**Enlace:** [PEGAR AQUÍ EL ENLACE PÚBLICO AL VIDEO]  (duración: 2–5 min)
+**Enlace:** https://youtu.be/xZ6QIfuj2bc
 
 ## 🎯 Contexto y objetivo
 KINNUX S.A.S. registra sus movimientos comerciales (ventas y obsequios) con información incompleta en varios campos. El objetivo es **limpiar esos datos, entender cómo se comportan las ventas y estimar el valor de un pedido a partir de la cantidad**, para apoyar decisiones de inventario, cobro y registro.
